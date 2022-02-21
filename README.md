@@ -5,7 +5,7 @@ Vehicle Detection using Gaussian Mixture Model and Blob Analysis
 - To detect vehicles in motion based on Gaussian Mixture Models and Blob Analysis 
 - The following is a breakdown of the folder structure:
 
-CONTENTS
+**CONTENTS:**
 
 - DESCRIPTION
 - SOFTWARE REQUIREMENTS
@@ -13,7 +13,7 @@ CONTENTS
 - FLOW OF THE PROJECT
 - SUMMARY
 
-DESCRIPTION
+**DESCRIPTION:**
 
 - Urban areas around the world always face the challenge of immense road traffic in everyday life. 
   This problem is further worsening day by day by the increasing number of vehicles, without any significant development of road systems. 
@@ -29,21 +29,21 @@ DESCRIPTION
   Along with it, we apply two filters to our work and observe which is best suitable among the lot.
 
 
-SOFTWARE REQUIREMENTS
+**SOFTWARE REQUIREMENTS:**
 
 To run the code, these following softwares are required :
 	- MATLAB
 	- Computer Vision System Toolbox
 
 
-DETAILS OF THE VIDEO DATASET
+**DETAILS OF THE VIDEO DATASET:**
 
 Our video dataset contains 3 video files namely, 
 	- 1.mp4
 	- 2.mp4
 	- 3.mp4
 
-FLOW OF THE PROJECT 
+**FLOW OF THE PROJECT:** 
 
 Run the code in MATLAB software editor.
 The output explaination is as follows :
@@ -57,7 +57,7 @@ The output explaination is as follows :
 	  This frame shows the cars being detected and displayed around Blobs.
 	  The number of cars per frame is displayed in the top-left corner yellow box.
 
-SUMMARY
+**SUMMARY:**
 
 - The video has been processed as frames and has been successfully implemented using our proposed work. 
 - The video frames are enhanced according to their brightness and contrast. 
@@ -68,4 +68,4 @@ SUMMARY
 
 
 
-THANK YOU
+***THANK YOU***
